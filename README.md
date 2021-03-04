@@ -23,4 +23,3 @@ F_N(M) & = \frac{N}{\mathrm{tr}(D_M \hat{V}_N)} \hat{p}' M \hat{p} \sim F(\hat{f
 `Case 2: a = 2; b =5, n1j = n2j = (11, 10, 9, 8, 7)`
 
 ![Tab2Case2](./misc/Tab2Case2.jpeg)
-![PowerCmp](./misc/PowerCmp.pdf)
