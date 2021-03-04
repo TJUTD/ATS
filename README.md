@@ -15,7 +15,7 @@ F_N(M) & = \frac{N}{\mathrm{tr}(D_M \hat{V}_N)} \hat{p}' M \hat{p} \sim F(\hat{f
 ```
 --->
 
-![Tab2Case1](./img/Tab2Case1.JPG)
+![Tab2Case1](./misc/Tab2Case1.JPG)
 
 
-![Tab2Case2](./img/Tab2Case2.JPG)
+![Tab2Case2](./misc/Tab2Case2.JPG)
